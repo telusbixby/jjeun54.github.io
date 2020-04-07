@@ -11,7 +11,7 @@ description: A virtual proof that I'm awesome
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://jjeun54.github.io"
+#url: "https://example.com"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -260,5 +260,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-remote_theme : daattali/beautiful-jekyll
